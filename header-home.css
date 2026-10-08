@@ -1,0 +1,1 @@
+header .actions .home-button{background:#064078;color:white;min-width:0}.home-reference .actions{gap:calc(26 * var(--u))}@media(max-width:699px){.home-reference .actions{gap:6px;right:12px}.home-reference .actions .pill{font-size:12px;padding:8px 10px}.home-reference header .logo{width:70px}}
